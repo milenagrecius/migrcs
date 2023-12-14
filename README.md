@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/milenagrecius/migrcs/assets/52427899/8ceae6f7-47f2-41e5-8dda-ab371896b0aa"/> 
+<img src="https://github.com/milenagrecius/milenagrecius/assets/52427899/b99768c3-8f6f-4afd-b0d3-10c010cd7675"/> 
 
 
 
